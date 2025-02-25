@@ -1,4 +1,4 @@
-# Data Repository for "Real-time Quantum Monte Carlo Algorithm For Noisy Real-time Quantum Monte Carlo Algorithm For Noisy Quantum Circuit SimulationsQuantum Circuit Simulations"
+# Data Repository for "Real-time Quantum Monte Carlo Algorithm For Noisy Quantum Circuit SimulationsQuantum Circuit Simulations"
 
 Tong Shen and Daniel A. Lidar
 
@@ -9,7 +9,9 @@ We present a real-time quantum Monte Carlo algorithm that simulates the dynamics
 This repository includes links, code, scripts, and data to generate the figures in a paper.
 
 ### Requirements
+The data in this project was generated via [OpenQMC.jl](https://github.com/USCqserver/OpenQMC.jl). Everything included in the data directory was processed from the raw data on Zenodo.
 
+### Figures
 
 ### Support
 This material is based upon work supported by, or in part by, the U. S. Army Research Laboratory and the U.S. Army Research Office under contract/grant number W911NF2310255.
