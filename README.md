@@ -15,5 +15,17 @@ The data in this project was generated via [OpenQMC.jl](https://github.com/USCqs
 #### Figure 01: Benchmark for 10-qubit crosstalk suppression circuit
 ![Component structure](./fig/crosstalk_benchmark_10qubit.svg)
 
+#### Figure 02: Scaling of QMC and QT for crosstalk suppression circuits
+![Component structure](./fig/crosstalk_scaling.svg)
+
+#### Figure 03: Benchmark for 10-qubit GHZ state preparation circuit
+![Component structure](./fig/ghz_benchmark_10qubit.svg)
+
+#### Figure 04: Scaling of QMC and QT for GHZ state preparation circuit
+![Component structure](./fig/ghz_benchmark_10qubit.svg)
+
+#### Figure 05: Simulation for a 2-qubit Redfield master equation
+![Component structure](./fig/two_qubit_nonMarkov.svg)
+
 ### Support
 This material is based upon work supported by, or in part by, the U. S. Army Research Laboratory and the U.S. Army Research Office under contract/grant number W911NF2310255.
