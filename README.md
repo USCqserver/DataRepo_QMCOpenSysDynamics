@@ -12,6 +12,8 @@ This repository includes links, code, scripts, and data to generate the figures 
 The data in this project was generated via [OpenQMC.jl](https://github.com/USCqserver/OpenQMC.jl). Everything included in the data directory was processed from the raw data on Zenodo.
 
 ### Figures
+#### Figure 01: Benchmark for 10-qubit crosstalk suppression circuit
+![Component structure](./fig/crosstalk_benchmark_10qubit.svg)
 
 ### Support
 This material is based upon work supported by, or in part by, the U. S. Army Research Laboratory and the U.S. Army Research Office under contract/grant number W911NF2310255.
