@@ -1,4 +1,4 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3A2212.08654-B31B1B.svg)](https://arxiv.org/abs/2502.18929)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2502.18929-B31B1B.svg)](https://arxiv.org/abs/2502.18929)
 
 # Data Repository for "Real-time Quantum Monte Carlo Algorithm For Noisy Quantum Circuit SimulationsQuantum Circuit Simulations"
 
