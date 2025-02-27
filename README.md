@@ -1,3 +1,5 @@
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2212.08654-B31B1B.svg)](https://arxiv.org/abs/2502.18929)
+
 # Data Repository for "Real-time Quantum Monte Carlo Algorithm For Noisy Quantum Circuit SimulationsQuantum Circuit Simulations"
 
 Tong Shen and Daniel A. Lidar
@@ -22,7 +24,7 @@ The data in this project was generated via [OpenQMC.jl](https://github.com/USCqs
 ![Component structure](./fig/ghz_benchmark_10qubit.svg)
 
 #### Figure 04: Scaling of QMC and QT for GHZ state preparation circuit
-![Component structure](./fig/ghz_benchmark_10qubit.svg)
+![Component structure](./fig/ghz_time_scaling.svg)
 
 #### Figure 05: Simulation for a 2-qubit Redfield master equation
 ![Component structure](./fig/two_qubit_nonMarkov.svg)
