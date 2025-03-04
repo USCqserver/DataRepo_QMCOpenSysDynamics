@@ -11,7 +11,7 @@ We present a real-time quantum Monte Carlo algorithm that simulates the dynamics
 This repository includes links, code, scripts, and data to generate the figures in a paper.
 
 ### Requirements
-The data in this project was generated via [OpenQMC.jl](https://github.com/USCqserver/OpenQMC.jl). Everything included in the data directory was processed from the raw data on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14935270.svg)](https://doi.org/10.5281/zenodo.14935270).
+The data in this project was generated via [OpenQMC Simulator](https://github.com/USCqserver/OpenQMC-simulator). Everything included in the data directory was processed from the raw data on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14935270.svg)](https://doi.org/10.5281/zenodo.14935270).
 
 ### Figures
 #### Figure 01: Benchmark for 10-qubit crosstalk suppression circuit
